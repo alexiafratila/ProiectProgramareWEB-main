@@ -16,6 +16,7 @@ import { FirebaseAppModule, initializeApp, provideFirebaseApp } from '@angular/f
 import { MotorcycleService } from './Services/motorcycle.service';
 import {FirestoreModule} from '@angular/fire/firestore'
 
+
 @NgModule({
   declarations: [
     AppComponent,
